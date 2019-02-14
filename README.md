@@ -1,6 +1,6 @@
 # evote-movie-2019
 
-## About
+## About
 This is a sequence of progressive enhancements, taking a static HTML site into an authenticated modern MVC website
 
 The website is about movies and user voted stars
