@@ -8,7 +8,7 @@ The website is about movies and user voted stars
 ## Progressive enhancement 
 
 1. Starting point
-  - a flat HTML website with hardcoded links
+    - a flat HTML website with hardcoded links
 
 2. Change HMTL to PHP
   - change all `.html` file extension to `.php` 
