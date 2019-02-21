@@ -30,24 +30,27 @@ The website is about movies and user voted stars
       
       - NOTE: we have lost title page name and current page nav indicator - we'll fix this soon :-)
 
-5. Current page in nav bar
+5. Current page name in HTML title
         - controller functions to pass values
         
-6. List details from array
+6. Current page indicated in nav bar CSS
+        - controller functions to pass values
+        
+1. List details from array
 
-7. List details from array of objects
+1. List details from array of objects
 
-8. List details from array of objects from DB
+1. List details from array of objects from DB
 
-9. Form for comments (into DB)
+1. Form for comments (into DB)
 
-10. OO front controller and controllers
+1. OO front controller and controllers
 
-11. Twig templates
+1. Twig templates
 
-12. Admin login and CRUD
+1. Admin login and CRUD
 
-13. Stick forms if validation error
+1. Sticky forms if validation error
 
 ## Links to completed verions
 
