@@ -18,7 +18,7 @@ The website is about movies and user voted stars
       - move all display pages into folder `/templates`
       - move images and css into new folder `/public`
       - add Front Controller script `/public/index.php` to test for GET variable `action`
-      - change all navigation links tothe form `/index.php?action=<PAGE>`
+      - change all navigation links to the form `/index.php?action=<PAGE>`
          - e.g. `/index.php?action=about` for link to about page
 
 
