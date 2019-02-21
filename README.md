@@ -41,6 +41,8 @@ The website is about movies and user voted stars
 
 12. Admin login and CRUD
 
+13. Stick forms if validation error
+
 ## Links to completed verions
 
 
