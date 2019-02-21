@@ -11,15 +11,15 @@ The website is about movies and user voted stars
     - a flat HTML website with hardcoded links
 
 2. Change HMTL to PHP
-  - change all `.html` file extension to `.php` 
-  - in every page change the navigtion links to files ending with `.php`
+      - change all `.html` file extension to `.php` 
+      - in every page change the navigtion links to files ending with `.php`
 
 3. Add Front Controller structure
-  - move all display pages into folder `/templates`
-  - move images and css into new folder `/public`
-  - add Front Controller script `/public/index.php` to test for GET variable `action`
-  - change all navigation links tothe form `/index.php?action=<PAGE>`
-    - e.g. `/index.php?action=about` for link to about page
+      - move all display pages into folder `/templates`
+      - move images and css into new folder `/public`
+      - add Front Controller script `/public/index.php` to test for GET variable `action`
+      - change all navigation links tothe form `/index.php?action=<PAGE>`
+         - e.g. `/index.php?action=about` for link to about page
 
 
 ## Links to completed verions
