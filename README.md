@@ -21,6 +21,25 @@ The website is about movies and user voted stars
       - change all navigation links to the form `/index.php?action=<PAGE>`
          - e.g. `/index.php?action=about` for link to about page
 
+4. Header and Footer
+        - includes in templates
+
+5. Current page in nav bar
+        - controller functions to pass values
+        
+6. List details from array
+
+7. List details from array of objects
+
+8. List details from array of objects from DB
+
+9. Form for comments (into DB)
+
+10. OO front controller and controllers
+
+11. Twig templates
+
+12. Admin login and CRUD
 
 ## Links to completed verions
 
