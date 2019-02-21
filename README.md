@@ -9,8 +9,8 @@ The website is about movies and user voted stars
 
 1. simple HTML-only version of website
 
-[https://github.com/dr-matt-smith/evote-movie-2019-01-basic-html](https://github.com/dr-matt-smith/evote-movie-2019-01-basic-html)
+https://github.com/dr-matt-smith/evote-movie-2019-01-basic-html
 
 2. all `.html` files changeds to `.php`
 
-(link goes here)
+https://github.com/dr-matt-smith/evote-movie-2019-02-all-files-dot-php
