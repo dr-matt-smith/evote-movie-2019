@@ -51,9 +51,13 @@ The website is about movies and user voted stars
 
       - https://github.com/dr-matt-smith/evote-movie-2019-06-style-variables-passed-to-templates
 
-1. List details from array
+7. List details from array
 
       - https://github.com/dr-matt-smith/evote-movie-2019-07-movie-list-from-array
+
+8. Movies list from a Repository class
+
+    - https://github.com/dr-matt-smith/evote-movie-2019-08-movie-repository
 
 1. List details from array of objects
 
