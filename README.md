@@ -9,10 +9,15 @@ The website is about movies and user voted stars
 
 1. Starting point
     - a flat HTML website with hardcoded links
+    
+    - https://github.com/dr-matt-smith/evote-movie-2019-01-basic-html
+
 
 2. Change HMTL to PHP
       - change all `.html` file extension to `.php` 
       - in every page change the navigtion links to files ending with `.php`
+      
+      - https://github.com/dr-matt-smith/evote-movie-2019-02-all-files-dot-php
 
 3. Add Front Controller structure
       - move all display pages into folder `/templates`
@@ -20,7 +25,10 @@ The website is about movies and user voted stars
       - add Front Controller script `/public/index.php` to test for GET variable `action`
       - change all navigation links to the form `/index.php?action=<PAGE>`
          - e.g. `/index.php?action=about` for link to about page
+         
+      - https://github.com/dr-matt-smith/evote-movie-2019-03-front-controller
 
+         
 4. Header and Footer
       - remove common header and nav content to `_header.php`
       
@@ -29,13 +37,20 @@ The website is about movies and user voted stars
       - add `require_once` to all pages to read in common header and footer
       
       - NOTE: we have lost title page name and current page nav indicator - we'll fix this soon :-)
+      
+      - https://github.com/dr-matt-smith/evote-movie-2019-04-common-header-footers
+
 
 5. Current page name in HTML title
         - controller functions to pass values
-        
+
+      - https://github.com/dr-matt-smith/evote-movie-2019-02-all-files-dot-php
+
 6. Current page indicated in nav bar CSS
         - controller functions to pass values
-        
+
+      - https://github.com/dr-matt-smith/evote-movie-2019-05-values-passed-to-templates
+
 1. List details from array
 
 1. List details from array of objects
@@ -51,15 +66,6 @@ The website is about movies and user voted stars
 1. Admin login and CRUD
 
 1. Sticky forms if validation error
-
-## Links to completed verions
-
-
-1. https://github.com/dr-matt-smith/evote-movie-2019-01-basic-html
-2. https://github.com/dr-matt-smith/evote-movie-2019-02-all-files-dot-php
-3. https://github.com/dr-matt-smith/evote-movie-2019-03-front-controller
-4. https://github.com/dr-matt-smith/evote-movie-2019-04-common-header-footers
-5. https://github.com/dr-matt-smith/evote-movie-2019-05-values-passed-to-templates
 
 
 
