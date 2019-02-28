@@ -59,7 +59,9 @@ The website is about movies and user voted stars
 
     - https://github.com/dr-matt-smith/evote-movie-2019-08-movie-repository
 
-1. List details from array of objects
+9. List details from array of objects
+
+    - https://github.com/dr-matt-smith/evote-movie-2019-09-movie-objects
 
 1. List details from array of objects from DB
 
