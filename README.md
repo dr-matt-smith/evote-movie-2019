@@ -44,12 +44,12 @@ The website is about movies and user voted stars
 5. Current page name in HTML title
         - controller functions to pass values
 
-      - https://github.com/dr-matt-smith/evote-movie-2019-02-all-files-dot-php
+      - https://github.com/dr-matt-smith/evote-movie-2019-05-values-passed-to-templates
 
 6. Current page indicated in nav bar CSS
         - controller functions to pass values
 
-      - https://github.com/dr-matt-smith/evote-movie-2019-05-values-passed-to-templates
+      - https://github.com/dr-matt-smith/evote-movie-2019-06-style-variables-passed-to-templates
 
 1. List details from array
 
