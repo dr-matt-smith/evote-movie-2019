@@ -67,8 +67,10 @@ The website is about movies and user voted stars
 
     - https://github.com/dr-matt-smith/evote-movie-2019-10-functions-into-controller-class
 
-1. List details from array of objects from DB
+11. List details from array of objects from DB
 
+    - https://github.com/dr-matt-smith/evote-movie-2019-11-database-movie-data
+    
 1. Form for comments (into DB)
 
 1. OO front controller and controllers
