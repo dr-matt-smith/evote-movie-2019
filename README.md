@@ -75,7 +75,11 @@ The website is about movies and user voted stars
 
     - https://github.com/dr-matt-smith/evote-movie-2019-12-create-new-movies
 
-1. OO front controller and controllers
+13. Links to delete movies from the database
+
+    - https://github.com/dr-matt-smith/evote-movie-2019-13-delete-from-database
+
+14. Link and form to EDIT movies
 
 1. Twig templates
 
