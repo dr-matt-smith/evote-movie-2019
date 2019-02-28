@@ -63,6 +63,10 @@ The website is about movies and user voted stars
 
     - https://github.com/dr-matt-smith/evote-movie-2019-09-movie-objects
 
+10. Move controller functions into a controller class
+
+    - https://github.com/dr-matt-smith/evote-movie-2019-10-functions-into-controller-class
+
 1. List details from array of objects from DB
 
 1. Form for comments (into DB)
