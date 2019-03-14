@@ -83,6 +83,10 @@ The website is about movies and user voted stars
 
     - https://github.com/dr-matt-smith/evote-movie-2019-14-edit-form
 
+15. List CHEAP movies - custom SQL method in Repository class
+
+    - https://github.com/dr-matt-smith/evote-movie-2019-15-custom-sql-in-repository
+    
 1. Twig templates
 
 1. Admin login and CRUD
