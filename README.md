@@ -87,6 +87,10 @@ The website is about movies and user voted stars
 
     - https://github.com/dr-matt-smith/evote-movie-2019-15-custom-sql-in-repository
     
+16. Login to protect the database CRUD
+
+    - https://github.com/dr-matt-smith/evote-movie-2019-16-login-protect-crud
+    
 1. Twig templates
 
 1. Admin login and CRUD
