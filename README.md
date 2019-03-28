@@ -99,4 +99,11 @@ The website is about movies and user voted stars
 
 
 
+## Testing
+
+Examples of Unit and Acceptance testing using Codeception can be found in these repos:
+
+1. Setup project for acceptance testing (login with db CRUD)
+
+    - https://github.com/dr-matt-smith/evote-movie-2019-testing)
 
