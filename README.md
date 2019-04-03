@@ -93,8 +93,6 @@ The website is about movies and user voted stars
     
 1. Twig templates
 
-1. Admin login and CRUD
-
 1. Sticky forms if validation error
 
 
