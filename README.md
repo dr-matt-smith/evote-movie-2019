@@ -95,6 +95,10 @@ The website is about movies and user voted stars
 
     - https://github.com/dr-matt-smith/evote-movie-2019-17-category-many-to-one
     
+18. Movie Charts - DB Many-to-many relationship
+
+    - https://github.com/dr-matt-smith/evote-movie-2019-18-movie-charts-many-to-many
+    
 1. Twig templates
 
 1. Sticky forms if validation error
