@@ -91,6 +91,10 @@ The website is about movies and user voted stars
 
     - https://github.com/dr-matt-smith/evote-movie-2019-16-login-protect-crud
     
+17. Movie-Category - DB many-to-one relationship
+
+    - https://github.com/dr-matt-smith/evote-movie-2019-17-category-many-to-one
+    
 1. Twig templates
 
 1. Sticky forms if validation error
